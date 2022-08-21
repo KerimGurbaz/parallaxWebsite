@@ -108,6 +108,7 @@
 }
 .two .sec-bottom {
   background-color: rgb(40, 46, 52);
+  opacity: 0.9;
 }
 
 .two .sec-bottom p {
@@ -144,11 +145,15 @@
   padding: 1.5rem;
   font-weight: 100;
 }
+
 .three .header1 {
   font-weight: bold;
-  font-size: 2rem;
-  background-color: rgb(40, 46, 52);
+  font-size: 1.8rem;
   color: white;
+  letter-spacing: 0.4rem;
+  outline: 0.5rem inset rgb(223, 64, 223);
+  outline-offset: 1.5rem;
+  width: 50%;
 }
 
 .four {
