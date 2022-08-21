@@ -19,9 +19,23 @@
 .header1 {
   position: absolute;
   text-align: center;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+
+  /* border-radius: 15px 0px; */
+  font-size: 2.2rem;
+  font-weight: 100;
+  letter-spacing: 0.2rem;
+  outline: 1rem inset rgb(223, 64, 223);
+  outline-offset: 1.5rem;
+}
+.header1 p {
+  background-color: rgb(64, 64, 64);
+  color: white;
+  padding: 3rem;
+  border-radius: 1.5rem 0px;
+  font-size: 3rem;
 }
 .sec-bottom {
   text-align: center;
@@ -61,6 +75,7 @@
   transform: translate(-50%, -50%);
   width: 40%;
   opacity: 0.5;
+  outline: 1rem inset rgb(223, 64, 223);
 }
 .two .sec-bottom {
   background-color: rgb(40, 46, 52);
@@ -136,4 +151,16 @@
   font-size: 1.5rem;
   color: white;
   word-spacing: 0.5rem;
+}
+.five {
+  position: relative;
+}
+.five .img {
+  background-image: url("./img/bg.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.6;
 }
