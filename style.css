@@ -81,6 +81,7 @@
 }
 .three {
   position: relative;
+  background-color: #f1f1f1;
 }
 .three .img {
   background-image: url("./img/bg3.jpg");
@@ -102,4 +103,37 @@
 .three h2 {
   font-weight: bold;
   font-size: 1.5rem;
+}
+
+.four {
+  position: relative;
+}
+.four .img {
+  background-image: url("./img/bg4.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.6;
+}
+
+.four .sec-bottom {
+  background-color: rgb(40, 46, 52);
+}
+
+.four .sec-bottom p {
+  color: white;
+  font-size: 1.3rem;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.7rem;
+  word-spacing: 3px;
+  padding: 1.5rem;
+  font-weight: 200;
+}
+.four h2 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white;
+  word-spacing: 0.5rem;
 }
