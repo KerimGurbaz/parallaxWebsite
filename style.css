@@ -29,7 +29,7 @@
   font-weight: 100;
   letter-spacing: 0.4rem;
   outline: 0.5rem inset rgb(223, 64, 223);
-  outline-offset: 1.5rem;
+  outline-offset: 1rem;
   text-transform: uppercase;
   padding: 1rem;
 }
@@ -146,7 +146,7 @@
   font-weight: 100;
 }
 
-.three .header1 {
+/* .header1 {
   font-weight: bold;
   font-size: 1.8rem;
   color: white;
@@ -154,7 +154,7 @@
   outline: 0.5rem inset rgb(223, 64, 223);
   outline-offset: 1.5rem;
   width: 50%;
-}
+} */
 
 .four {
   position: relative;
