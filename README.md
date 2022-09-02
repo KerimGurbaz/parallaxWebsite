@@ -1,4 +1,4 @@
-![T03LBL87DA8-U03N0NSH2CA-5bd9f4e5361d-48](https://user-images.githubusercontent.com/101603320/188232710-cd169608-ad21-4fc5-b937-5439866a8fd7.jpg)
+
 
 
 <p>Clarusway<img align="right"
